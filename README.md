@@ -8,8 +8,8 @@ Bootstrap Multilevel Drop-down Menu
 
 ### Connect with me:
 
-[Personal **Website**](http://www.aislamfaisal.com/) >
-[Join me at **Facebook**](https://www.facebook.com/arifulislam.me) >
-[Fork me at **GitHub**](https://github.com/aislamfaisal/) >
-[Tweet me at **Twitter**](https://www.twitter.com/aislamfaisal) >
+[Personal **Website**](http://www.aislamfaisal.com/) ::
+[Join me at **Facebook**](https://www.facebook.com/arifulislam.me) ::
+[Fork me at **GitHub**](https://github.com/aislamfaisal/) ::
+[Tweet me at **Twitter**](https://www.twitter.com/aislamfaisal) ::
 [Linked me at **Linkedin**](http://www.linkedin.com/in/aislamfaisal)
