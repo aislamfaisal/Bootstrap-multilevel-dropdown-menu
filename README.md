@@ -1,4 +1,4 @@
-Bootstrap-multilevel-dropdown-menu
+Bootstrap Multilevel Drop-down Menu
 ==================================
 <p>Multilevel drop-down menu for Twitter Bootstrap 3.2.0</p>
 <p>As Bootstrap default drop-down navigation needs to click to show drop-down menu, but for this menu you don't need to click to see
